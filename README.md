@@ -5,10 +5,10 @@ persons computer for evidence of the use of cryptocurrencies.GovCrypto scans the
 entire file system, including network drives, to check whether there are file name 
 that indicate the use of cryptocurrencies. You can enter the search filter under 
 ""Settings"". If a Bitcoin-Desktop-Wallet is found, it will be selected automatically 
-at the end of the scanning process. Hits can be opened with a double click. 
+at the end of the scanning process. Hits can be opened with a double click. <br>
 
 The following hash types can be considered for decrypting software wallets with GovCracker 
-(www.govcrack.com):<br>
+(www.govcrack.com):<br><br>
 :white_check_mark:Bitcoin-Wallet: 11300<br>
 :white_check_mark:Ethereum-Wallet: 15600, 15700, 16300<br>
 :white_check_mark:Electrum-Wallet: 16600, 21700, 21800<br>
@@ -19,9 +19,9 @@ The following hash types can be considered for decrypting software wallets with 
 <br>
 
 ## OS ##
-GovCrypto is free and developed for Windows 10 (64 Bit), Linux and iOS.<br> 
+GovCrypto is free and developed for Windows 10 (64 Bit), Linux and macOS.<br> <br>
 Download the latest release (include GovCracker and GovTools and all Packages / 400MB) 
-under [https://govcrack.com] and unpack (7z) it in the desired location. 
+under [https://govcrack.com]. 
 <br><br>
 
 
@@ -29,11 +29,9 @@ under [https://govcrack.com] and unpack (7z) it in the desired location.
 
 
 ## License ##
-
 GovCrypto is released under GPL 3.0 (Open-Source). 
 
 ## Others ##
-
 THE SOFTWARES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
