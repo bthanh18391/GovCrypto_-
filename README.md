@@ -15,7 +15,7 @@ The following hash types can be considered for decrypting software wallets with 
 :white_check_mark:MyBlockchain-Wallet: 12700, 15200 ,18800<br>
 :white_check_mark:MetaMask-Wallet: 26600<br>
 :white_check_mark:Exodus-Wallet: 28200<br>    
-<br>
+
 
 ## GovCrypto ##
 
