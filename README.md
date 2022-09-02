@@ -25,7 +25,7 @@ under [https://govcrack.com].
 <br><br>
 
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/170981613-e6b2c39e-9c20-4871-ad1d-5dd06bda9e4e.jpg)
+![Screenshot](https://github.com/Are-s-h/GovCrypto/issues/1#issue-1359935443)
 
 
 ## License ##
