@@ -14,9 +14,14 @@ The following hash types can be considered for decrypting software wallets with 
 :white_check_mark:Electrum-Wallet: 16600, 21700, 21800<br>
 :white_check_mark:MyBlockchain-Wallet: 12700, 15200 ,18800<br>
 :white_check_mark:MetaMask-Wallet: 26600<br>
-:white_check_mark:Exodus-Wallet: 28200<br>
-           
+:white_check_mark:Exodus-Wallet: 28200<br>    
 <br>
+
+![Screenshot](https://user-images.githubusercontent.com/73139495/188109847-f2e1750d-1238-4d97-87a2-bdb0d66f7f19.jpg)
+
+<br>
+
+
 
 ## OS ##
 GovCrypto is free and developed for Windows 10 (64 Bit), Linux and macOS.<br> <br>
@@ -25,7 +30,7 @@ under [https://govcrack.com].
 <br><br>
 
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/188108712-dc20f2fd-dc69-4777-bbef-d764b65a9631.jpg)
+
 
 
 ## License ##
