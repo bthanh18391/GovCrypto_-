@@ -1,7 +1,7 @@
 ## What is GovCrypto? ##
 
 `GovCrypto` was created for criminal investigations. GoyCrypto searches the target 
-persons computer for evidence of the use of cryptocurrencies.GovCrypto scans the 
+persons computer for evidence of the use of cryptocurrencies. GovCrypto scans the 
 entire file system, including network drives, to check whether there are file name 
 that indicate the use of cryptocurrencies. You can enter the search filter under 
 ""Settings"". If a Bitcoin-Desktop-Wallet is found, it will be selected automatically 
