@@ -27,6 +27,7 @@ The following hash types can be considered for decrypting software wallets with 
 
 ## OS ##
 GovCrypto is free and developed for Windows 10 (64 Bit), Linux and macOS.<br> <br>
+<br><br>
 
 ## Download Utils ##
 Download the latest release (include GovCracker and GovTools and all Packages / 400MB) 
@@ -35,6 +36,7 @@ under [https://govcrack.com].
 
 ## License ##
 GovCrypto is released under GPL 3.0 (Open-Source). 
+<br><br>
 
 ## Others ##
 THE SOFTWARES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
