@@ -8,13 +8,13 @@ that indicate the use of cryptocurrencies. You can enter the search filter under
 at the end of the scanning process. Hits can be opened with a double click. 
 
 The following hash types can be considered for decrypting software wallets with GovCracker 
-(www.govcrack.com):
-:white_check_mark:Bitcoin-Wallet: 11300
-:white_check_mark:Ethereum-Wallet: 15600, 15700, 16300
-:white_check_mark:Electrum-Wallet: 16600, 21700, 21800
-:white_check_mark:MyBlockchain-Wallet: 12700, 15200 ,18800
-:white_check_mark:MetaMask-Wallet: 26600
-:white_check_mark:Exodus-Wallet: 28200
+(www.govcrack.com):<br>
+:white_check_mark:Bitcoin-Wallet: 11300<br>
+:white_check_mark:Ethereum-Wallet: 15600, 15700, 16300<br>
+:white_check_mark:Electrum-Wallet: 16600, 21700, 21800<br>
+:white_check_mark:MyBlockchain-Wallet: 12700, 15200 ,18800<br>
+:white_check_mark:MetaMask-Wallet: 26600<br>
+:white_check_mark:Exodus-Wallet: 28200<br>
            
 <br>
 
