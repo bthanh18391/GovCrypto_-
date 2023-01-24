@@ -27,7 +27,7 @@ GovCrypto is free and developed for Windows 10 (64 Bit).
 There are also scripts for Linux and MacOS.
 <br>
 
-## Download Utils ##
+## Download ##
 Download the latest release under [https://govcracker.com]. 
 <br>
 
