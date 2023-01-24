@@ -2,20 +2,15 @@
 
 `GovCrypto` was created for criminal investigations. GoyCrypto searches the target 
 persons computer for evidence of the use of cryptocurrencies. GovCrypto scans the 
-entire file system, including network drives, to check whether there are file name 
-that indicate the use of cryptocurrencies. You can enter the search filter under 
-"Settings". If a Bitcoin-Desktop-Wallet is found, it will be selected automatically 
-at the end of the scanning process. Hits can be opened with a double click. <br>
+entire file system and network drives.
 
-The following hash types can be considered for decrypting software wallets with GovCracker 
-(www.govcrack.com):<br><br>
-:white_check_mark:Bitcoin-Wallet: 11300<br>
-:white_check_mark:Ethereum-Wallet: 15600, 15700, 16300<br>
-:white_check_mark:Electrum-Wallet: 16600, 21700, 21800<br>
-:white_check_mark:MyBlockchain-Wallet: 12700, 15200 ,18800<br>
-:white_check_mark:MetaMask-Wallet: 26600<br>
-:white_check_mark:Exodus-Wallet: 28200<br>    
-
+The following search functions are available:
+- The file system is searched for sofware wallets. 
+- The browser history is searched for online wallets.
+- The Windows registry history is searched for hardware wallets connected in the past (_VID + _PID). 
+- All text and CSV files are searched for public and private keys.
+- All text and CSV files are searched for seed phrase.
+<br>
 
 ## GovCrypto ##
 
@@ -28,16 +23,16 @@ The following hash types can be considered for decrypting software wallets with 
 <br>
 
 ## OS ##
-GovCrypto is free and developed for Windows 10 (64 Bit), Linux and macOS.
+GovCrypto is free and developed for Windows 10 (64 Bit).
+There are also scripts for Linux and MacOS.
 <br>
 
 ## Download Utils ##
-Download the latest release (include GovCracker and GovTools and all Packages / 400MB) 
-under [https://govcrack.com]. 
+Download the latest release under [https://govcracker.com]. 
 <br>
 
 ## License ##
-GovCrypto is released under GPL 3.0 (Open-Source). 
+GovCrypto is freeware. 
 <br>
 
 ## Others ##
