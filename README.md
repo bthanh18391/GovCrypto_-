@@ -18,7 +18,7 @@ The following search functions are available:
 
 <br>
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/188110103-ff953dbf-f7b5-492d-b1d8-9146ce060a02.jpg)
+![Screenshot](https://user-images.githubusercontent.com/73139495/214275378-613d5dfa-2149-4a06-9e46-e8b69495277a.jpg)
 
 <br>
 
