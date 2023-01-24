@@ -14,7 +14,7 @@ The following search functions are available:
 
 ## GovCrypto ##
 
-![Screenshot](https://user-images.githubusercontent.com/73139495/188109847-f2e1750d-1238-4d97-87a2-bdb0d66f7f19.jpg)
+![Screenshot](https://user-images.githubusercontent.com/73139495/214275299-d93b8f33-db11-4fd5-ae27-ada4d3ebf075.jpg)
 
 <br>
 
